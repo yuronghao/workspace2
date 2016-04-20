@@ -438,3 +438,4 @@ org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
 !SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-04-18 17:14:01.344
 !MESSAGE 提供的 SVN 信息与磁盘上“db_crm”项目的信息不相匹配。
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/yuronghao/.eclipse_keyring -showlocation

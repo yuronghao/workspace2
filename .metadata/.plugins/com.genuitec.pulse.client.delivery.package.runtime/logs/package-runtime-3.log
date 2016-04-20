@@ -1,0 +1,8 @@
+四月 19, 2016 9:08:10 上午 com.genuitec.pulse.client.deliverypackage.runtime.internal.Activator initializeLoggers
+信息: Package starting up at Tue Apr 19 09:08:10 CST 2016
+四月 19, 2016 9:08:22 上午 org.hibernate.eclipse.HibernatePlugin start
+信息: HibernatePlugin Started
+四月 19, 2016 9:08:28 上午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [/Users/yuronghao/Documents/work2/db_crm/src/spring-mvc.xml]
+四月 19, 2016 9:08:29 上午 org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+信息: Loading XML bean definitions from file [/Users/yuronghao/Documents/work2/db_crm/src/applicationContext.xml]

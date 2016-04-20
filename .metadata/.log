@@ -2180,3 +2180,14 @@ java.library.path = /Users/yuronghao/Library/Java/Extensions:/Library/Java/Exten
 
 !ENTRY org.eclipse.jst.server.tomcat.core 4 0 2016-04-20 13:33:57.793
 !MESSAGE Several ports (8080, 8009) required by Tomcat v7.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-04-20 13:39:48.175
+!MESSAGE Could not auto-share project JKALL
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“JKALL”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-04-20 13:39:48.176
+!MESSAGE 提供的 SVN 信息与磁盘上“JKALL”项目的信息不相匹配。
